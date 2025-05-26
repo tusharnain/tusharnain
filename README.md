@@ -9,9 +9,52 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naintushar@hotmail.com) 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=internet-explorer&logoColor=white)](https://tusharnain.com)
 
+<br/>
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<br/>
+
+## 🌟 Explore More About Me
+
+Want to see my projects, blogs, or get in touch?  
+👉 Visit my website at **[tusharnain.com](https://tusharnain.com)** — where I share my latest work, insights, and more!
+
+<br/>
+
+## 🔨 Projects
+
+Here are a few highlights from my recent work:
+
+<a href="https://stockpathshala.com" target="_blank">
+  <img src="https://tusharnain.com/storage/main/projects/stockpathshala-hd-logo.png" alt="StockPathshala" height="40px" />
+</a>
+<p>
+  A full-fledged EdTech platform for financial & stock market education, featuring video streaming (HLS), user subscriptions, and admin control.<br/>
+  <strong>Tech Stack:</strong> Laravel, MySQL, Linode
+</p>
+
+---
+
+<a href="[https://stockpathshala.com](https://planeasyladwa.com/)" target="_blank">
+  <img src="https://tusharnain.com/storage/main/projects/bsb-logo.png" alt="PlanEasyGroup" height="100px" />
+</a>
+<p>
+  Built a complete Visa Agency Management System with modules for lead management, appointment scheduling, task assignment, and client-specific document handling using Laravel, Livewire, and MySQL.
+</p>
+
+---
+
+
+### ⚙️ [CosmicPHP - Custom PHP MVC Framework](https://github.com/tushar-nain/cosmicphp)
+A lightweight MVC framework built from scratch with routing, controllers, views, commandline and ORM-style data handling.  
+**Tech Stack:** PHP, Vanilla JS, Sql
+
+
+<br/>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tushar-nain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tushar-nain&theme=dark&hide_border=false)<br/>
@@ -29,4 +72,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tushar-nain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
