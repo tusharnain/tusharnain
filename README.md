@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World 👋
 ▶️ I’m a Full Stack Web Developer specializing in PHP and Laravel, with 2+ years of hands-on experience building scalable, secure, and performance-optimized web applications. From SaaS platforms and admin dashboards to APIs and automation tools, I bring deep backend expertise and a strong focus on writing clean, maintainable code.
 
 
