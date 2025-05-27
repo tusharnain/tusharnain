@@ -38,7 +38,7 @@ Here are a few highlights from my recent work:
 ---
 
 <a href="https://planeasyladwa.com" target="_blank">
-  <img src="https://tusharnain.com/storage/main/projects/plan-easy-group.webp" alt="PlanEasyGroup" height="80px" />
+  <img src="https://tusharnain.com/storage/main/projects/plan-easy-group.webp" alt="PlanEasyGroup" height="60px" />
 </a>
 <p>
   Built a complete Visa Agency Management System with modules for lead management, appointment scheduling, task assignment, and client-specific document handling using Laravel, Livewire, and MySQL.
