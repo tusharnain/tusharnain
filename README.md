@@ -37,7 +37,7 @@ Here are a few highlights from my recent work:
 
 ---
 
-<a href="[https://stockpathshala.com](https://planeasyladwa.com/)" target="_blank">
+<a href="[https://stockpathshala.com](https://planeasyladwa.com)" target="_blank">
   <img src="https://tusharnain.com/storage/main/projects/bsb-logo.png" alt="PlanEasyGroup" height="100px" />
 </a>
 <p>
