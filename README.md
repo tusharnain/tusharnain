@@ -37,7 +37,7 @@ Here are a few highlights from my recent work:
 
 ---
 
-<a href="https://planeasyladwa.com" target="_blank">
+<a href="#" target="_blank">
   <img src="https://tusharnain.com/storage/main/projects/plan-easy-group.webp" alt="PlanEasyGroup" height="60px" />
 </a>
 <p>
