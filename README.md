@@ -47,7 +47,7 @@ Here are a few highlights from my recent work:
 ---
 
 
-### ⚙️ [CosmicPHP - Custom PHP MVC Framework](https://github.com/tushar-nain/cosmicphp)
+### ⚙️ [CosmicPHP - Custom PHP MVC Framework](https://github.com/tusharnain/cosmicphp)
 A lightweight MVC framework built from scratch with routing, controllers, views, commandline and ORM-style data handling.  
 **Tech Stack:** PHP, Vanilla JS, Sql
 
@@ -56,13 +56,13 @@ A lightweight MVC framework built from scratch with routing, controllers, views,
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tushar-nain&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-nain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-nain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tusharnain&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tusharnain&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharnain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=tushar-nain&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=tusharnain&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tushar-nain&limit=4&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=tusharnain&limit=4&theme=dark&combine_all_yearly_contributions=true)
