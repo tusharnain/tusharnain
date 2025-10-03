@@ -19,7 +19,7 @@
 ## 🌟 Explore More About Me
 
 Want to see my projects, blogs, or get in touch?  
-👉 Visit my website at **[tusharnain.com](https://tusharnain.com)** — where I share my latest work, insights, and more!
+👉 Visit my website at **[tusharnain.com](https://tusharnain.com)**, where I share my latest work, insights, and more!
 
 <br/>
 
