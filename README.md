@@ -1,6 +1,9 @@
 # Hello World 👋
 ▶️ I’m a Full Stack Web Developer specializing in PHP and Laravel, with 2+ years of hands-on experience building scalable, secure, and performance-optimized web applications. From SaaS platforms and admin dashboards to APIs and automation tools, I bring deep backend expertise and a strong focus on writing clean, maintainable code.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-nain) 
