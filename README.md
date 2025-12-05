@@ -5,12 +5,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-nain) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cosmicnerdx) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tusharnain_dev) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naintushar@hotmail.com) 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=internet-explorer&logoColor=white)](https://tusharnain.com)
+<div align="center">
+  <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
+  
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tusharnain)
+
+  ## 🌐 Connect with Me
+
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinratulu)](https://linkedin.com/in/tushar-nain)
+  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/cosmicnerdx)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naintushar@hotmail.com)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tusharnain_dev)
+
+  ##### View My Portfolio Here
+ [![tusharnain.com](https://img.shields.io/badge/tusharnain.com-283272?style=for-the-badge&logo=processingfoundation&logoColor=orange)](https://tusharnain.com)
+</div>
 
 <br/>
 
