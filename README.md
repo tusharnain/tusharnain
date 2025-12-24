@@ -33,36 +33,6 @@
 Want to see my projects, blogs, or get in touch?  
 👉 Visit my website at **[tusharnain.com](https://tusharnain.com)**, where I share my latest work, insights, and more!
 
-<br/>
-
-## 🔨 Projects
-
-Here are a few highlights from my recent work:
-
-<a href="https://stockpathshala.com" target="_blank">
-  <img src="https://tusharnain.com/storage/main/projects/stockpathshala-hd-logo.png" alt="StockPathshala" height="40px" />
-</a>
-<p>
-  A full-fledged EdTech platform for financial & stock market education, featuring video streaming (HLS), user subscriptions, and admin control.<br/>
-  <strong>Tech Stack:</strong> Laravel, MySQL, Linode
-</p>
-
----
-
-<a href="#" target="_blank">
-  <img src="https://tusharnain.com/storage/main/projects/plan-easy-group.webp" alt="PlanEasyGroup" height="60px" />
-</a>
-<p>
-  Built a complete Visa Agency Management System with modules for lead management, appointment scheduling, task assignment, and client-specific document handling using Laravel, Livewire, and MySQL.
-</p>
-
----
-
-
-### ⚙️ [CosmicPHP - Custom PHP MVC Framework](https://github.com/tusharnain/cosmicphp)
-A lightweight MVC framework built from scratch with routing, controllers, views, commandline and ORM-style data handling.  
-**Tech Stack:** PHP, Vanilla JS, Sql
-
 
 <br/>
 
